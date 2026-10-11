@@ -1,6 +1,3 @@
-/Old
-/Old2
-/Old/*
-/Old2/*
+schematic/old[0-9]*/*
 *.log
 *.raw
